@@ -1,4 +1,4 @@
-//插头DP
+//HDU4796 插头DP
 //最小表示法, 相同连通块的插头用相同数字，独立插头为1，没有插头为0
 #include <bits/stdc++.h>
 #define ll long long
